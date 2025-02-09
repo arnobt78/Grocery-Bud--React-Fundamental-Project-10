@@ -1,8 +1,11 @@
+
+<img width="534" alt="Screenshot 2025-02-09 at 15 43 05" src="https://github.com/user-attachments/assets/b3e82528-8e1d-4838-a58c-4d7ae967e68f" />
+
 ## Grocery Bud - React Fundamental Project 10
 
 Grocery Bud is a simple React application to manage a grocery list. Users can add, edit, and remove items, with the list being persisted in local storage. The application also provides notifications using `react-toastify`.
 
-**Online Live:**
+**Online Live:** https://grocery-bud-arnob.netlify.app/
 
 ### Features
 
